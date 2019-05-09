@@ -177,7 +177,7 @@ info:
       sample:
         autoShutdownExe: ""
         orphanActionExe: ""
-        rapidFailProtextionInterval:
+        rapidFailProtectionInterval:
           Days: 0
           Hours: 0
     name:
